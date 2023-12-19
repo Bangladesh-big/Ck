@@ -1,0 +1,50 @@
+{
+    "100001104336961": {
+        "userID": "100001104336961",
+        "name": "Paranz San 󱢏",
+        "vanity": "icecute101795",
+        "gender": 2,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 1,
+        "createTime": {
+            "timestamp": 1700191747546
+        },
+        "data": {
+            "timestamp": 1700191747546
+        },
+        "lastUpdate": 1700191747546
+    },
+    "61551954697260": {
+        "userID": "61551954697260",
+        "name": "Franz Anthony",
+        "vanity": "61551954697260",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 1,
+        "createTime": {
+            "timestamp": 1701848676702
+        },
+        "data": {
+            "timestamp": 1701848676702
+        },
+        "lastUpdate": 1701848676702
+    },
+    "61554094261965": {
+        "userID": "61554094261965",
+        "name": "Kugisaki Nobara",
+        "vanity": "61554094261965",
+        "gender": 1,
+        "isBirthday": false,
+        "money": 0,
+        "exp": 0,
+        "createTime": {
+            "timestamp": 1701848677012
+        },
+        "data": {
+            "timestamp": 1701848677012
+        },
+        "lastUpdate": 1701848677012
+    }
+}
