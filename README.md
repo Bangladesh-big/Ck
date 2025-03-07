@@ -12,7 +12,7 @@ Credits: Yan Maglinte</h6></sub></sub></sub></h1>
 
 - Welcome to the [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 repository. This project is an unofficial bot file from the [Mirai](https://github.com/m1raibot/miraiv2) Repository, initially developed and maintained by [Phạm Văn Diện](https://github.com/D-Jukie/Disme-Bot.git), better known as [D-Jukie](https://github.com/D-Jukie). The base file for this project is sourced from the [Disme-Bot](https://github.com/D-Jukie/Disme-Bot.git) GitHub project.
 
-- [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 is a modified messenger bot file by Yan Maglinte Franz Anthony 🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
+- [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 is a modified messenger bot file by Yan Maglinte and Franz Anthony 🇵🇭. It is a refined version of the Mirai messenger bot, with some unique enhancements. 
 
 - Further, [BotPack](https://replit.com/@YanMaglinte/BotPack)🌀 comes with a user-friendly feature that allows easy customization of your console design via the `theme` option in the config.json file. This makes it highly accessible, especially for beginners.
 <img align="center" src="https://i.imgur.com/wHD2zXv.jpg"/>
