@@ -9,12 +9,12 @@
   "UPTIME": 200,
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
+  "BOTNAME": "DJ",
   "OWNERID": "YOUR_UID",
   "FACEBOOK": "YOUR_FACEBOOK",
-  "PREFIX": "&",
+  "PREFIX": "/",
   "ADMINBOT": [
-    "YOUR_UID",
+    "100059026788061",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
